@@ -1,2 +1,18 @@
-# maori-memo
-Maori Memo is a customizable digital notebook designed to provide a comfortable and creative space for writing, organizing notes, and capturing ideas.
+# Maori Memo (真織 メモ)
+
+*A cozy place for studying.*
+
+## Overview
+
+Maori Memo is a digital notebook designed to help users organize their study notes and ideas.
+
+## Project Status
+
+Under development.
+
+## Documentation
+
+Under development.
+
+## Author
+Created by [amandapedrosamarques](https://github.com/amandapedrosamarques)
